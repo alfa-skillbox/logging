@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: skillbox-logging
+  profiles:
+    active: local-plain
